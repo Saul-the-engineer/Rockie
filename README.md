@@ -39,10 +39,15 @@ In many situations the riprap is placed in a location where it is difficult to s
 ### Workflow
 
 1. Processes the 3d point cloud to only include the riprap area
+   
    ![alt text](image.png)
-2. Segments the riprap into individual stones
+   
+3. Segments the riprap into individual stones
+   
    ![alt text](image-2.png)
-3. Perform a statistical analysis on the stones to determine the volume, size, and shape of the stones
+   
+5. Perform a statistical analysis on the stones to determine the volume, size, and shape of the stones
+   
    ![alt text](image-3.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
